@@ -28,7 +28,6 @@ int main(){
 
   llenado(matriz,numero+2,numero);
   imp_head(matriz,numero+2,numero);
-  delete matriz;
 
     
   return 0; 
